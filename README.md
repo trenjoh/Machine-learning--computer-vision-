@@ -1,5 +1,5 @@
 # Machine-learning
-Convolution Neural Networks-image classification using tensor flow
+Convolution Neural Networks for image classification using tensor flow
 
 Trained the model from scratch,
 
